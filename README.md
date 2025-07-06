@@ -46,8 +46,8 @@
 
 - [Trip Planner for College Students](https://github.com/Pranay-6669/trip-planner) — Smart trip planning & budgeting
 - [MindSync - Digital Wellness App](https://github.com/Pranay-6669/mindsync) — Digital wellbeing tracker
-- [Portfolio](https://github.com/Pranay-6669/portfolio) — Personal site & projects
-- [CTF Writeups](#) — (Coming soon) My best bug bounty/CTF solves & notes
+
+
 
 ---
 
@@ -63,7 +63,7 @@
 ## 💬 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/Pranay Bandanakanti"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/pranay-bandanakanti1259/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:pranay.b0311@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
