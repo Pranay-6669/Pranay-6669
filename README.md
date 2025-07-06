@@ -1,53 +1,74 @@
-# 👋 Hi, I'm Pranay! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-
-<!-- Tech animated banner -->
+<!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="80%" />
+  <img src="https://raw.githubusercontent.com/onuohasilver/github-profile-animated-banners/main/banners/code.gif" width="80%" alt="Animated Tech Banner"/>
 </p>
 
-## 🚀 Tech Enthusiast | Backend Developer in Progress
-
-- 🎓 B.Tech CSE
-- 💻 Currently learning: **Node.js, Express, MongoDB**
-- 🛠️ Love creating clean, useful web apps
-- 🌏 India
+<h1 align="center">Hi 👋, I'm Pranay</h1>
+<h3 align="center">Backend Developer | Cybersecurity Explorer | Tech Enthusiast</h3>
 
 ---
 
-### 🧰 Tech Toolbox
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,git,github,linux,vscode,postman" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=900&color=36BCF7&center=true&vCenter=true&width=435&lines=Backend+%7C+Security+%7C+Automation;Defending+and+Building+the+Future+of+Web;Node.js+%7C+Express+%7C+MongoDB+%7C+Linux+%7C+API+Design" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 🛡️ About Me
+
+- 🎓 B.Tech CSE, backend and cybersecurity enthusiast
+- 🔒 Passionate about building secure, scalable apps
+- 🛠️ Tech Stack: Node.js, Express, MongoDB, Linux, REST APIs, JWT, Docker basics
+- 🕵️‍♂️ Exploring CTFs, bug bounties & ethical hacking
+- 🧑‍💻 Always learning: Cloud, DevOps, Zero Trust, automation, and more
+
+---
+
+## 🧰 Main Tech Toolbox
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranay-6669&show_icons=true&theme=radical" alt="Pranay's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay-6669&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=Pranay-6669&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,linux,js,ts,python,docker,git,github,postman,vscode,figma,aws" height="40"/>
 </p>
 
 ---
 
-### 📌 Featured Projects
-
-- [Trip Planner for College Students](https://github.com/Pranay-6669/trip-planner)
-- [MindSync - Digital Wellness App](https://github.com/Pranay-6669/mindsync)
-- [Portfolio Website](https://github.com/Pranay-6669/portfolio)
-
----
-
-### 🌐 Connect with Me
+## 📊 GitHub Analytics
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/YOUR-INSTAGRAM-USERNAME"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranay-6669&show_icons=true&theme=tokyonight&count_private=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranay-6669&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay-6669&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
 
-<p align="center"><b>“Code. Learn. Build. Repeat.”</b> 🚀</p>
+## 🚩 Projects & Labs
+
+- [Trip Planner for College Students](https://github.com/Pranay-6669/trip-planner) — Smart trip planning & budgeting
+- [MindSync - Digital Wellness App](https://github.com/Pranay-6669/mindsync) — Digital wellbeing tracker
+- [Portfolio](https://github.com/Pranay-6669/portfolio) — Personal site & projects
+- [CTF Writeups](#) — (Coming soon) My best bug bounty/CTF solves & notes
+
+---
+
+## 🛡️ Security Interests
+
+- 🔐 JWT, OAuth2, and secure API design
+- 🛰️ API pentesting, bug bounty hunting (learning)
+- 🛠️ Tools: Burp Suite, nmap, Wireshark, Metasploit (basics), OWASP ZAP
+- 💡 Favorite Reads: OWASP Top 10, Hacker101, PortSwigger Web Security Academy
+
+---
+
+## 💬 Let's Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/Pranay Bandanakanti"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:pranay.b0311@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="60%"/>
+</p>
