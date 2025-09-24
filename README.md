@@ -44,8 +44,8 @@
 
 ## 🚩 Projects & Labs
 
-- [Trip Planner for College Students](https://github.com/Pranay-6669/trip-planner) — Smart trip planning & budgeting
-- [MindSync - Digital Wellness App](https://github.com/Pranay-6669/mindsync) — Digital wellbeing tracker
+- [Trip Planner for College Students] — Smart trip planning & budgeting
+- [MindSync - Digital Wellness App] — Digital wellbeing tracker
 
 
 
