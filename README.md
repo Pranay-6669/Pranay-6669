@@ -1,7 +1,7 @@
 <h1 align="center">Pranay Bandanakanti</h1>
 
 <p align="center">
-  AI/ML Enthusiast · Data Science Learner · Full Stack Explorer · India
+  AI/ML Enthusiast · Data Science Learner · India
 </p>
 
 <p align="center">
@@ -33,6 +33,11 @@
 ## 🧠 About Me
 
 Currently learning **AI/ML & Data Science** and building projects that combine data, logic, and real-world problem solving.
+- 🎓 CSE Student passionate about AI/ML & Data Science  
+- 📊 Learning Machine Learning, Deep Learning & Data Analytics  
+- 🧠 Focused on building intelligent, real-world AI solutions  
+- 💻 Interested in Full Stack Development (for product building)  
+- 🎯 Goal: Become an AI/ML Engineer solving real-world problems 
 
 ---
 
