@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Pranay</h1>
-<h3 align="center">AI/ML & Data Science Enthusiast   
+<h3 align="center">AI/ML & Data Science Enthusiast | Aspiring Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=AI%2FML+Learner+%7C+Data+Science+Explorer;Building+Intelligent+Data-Driven+Systems;Turning+Data+into+Insights+%26+Models;Future+AI+Engineer" />
@@ -72,26 +72,12 @@
 ### 🧠 AI / Data Science Projects
 - 📊 **Trip Planner for Students**
   - Smart planning + budgeting system
-  - Uses structured logic + optimization ideas
 
 - 🧠 **MindSync – AI Wellness System**
-  - Emotion tracking + journaling concept
-  - AI-based mental wellness idea project
+  - Emotion tracking + journaling concept app
 
 - 📈 **ML / Data Science Practice Projects**
-  - Data cleaning, EDA, visualization
-  - Beginner ML models (regression, classification)
-
----
-
-## 📚 Kaggle & AI Portfolio
-
-- 🧪 Kaggle Profile: *Add your Kaggle link here*
-- 📊 Practicing:
-  - Pandas, NumPy, Matplotlib
-  - Machine Learning Models
-  - Data preprocessing & feature engineering
-- 🤖 Focus: Real-world datasets & AI problem solving
+  - Data analysis, visualization & ML models
 
 ---
 
@@ -100,7 +86,7 @@
 - 🤖 Machine Learning Fundamentals  
 - 📊 Data Science & Analytics  
 - 🧠 Deep Learning Basics  
-- 🌐 Product thinking using AI  
+- 🌐 Full Stack Development fundamentals  
 
 ---
 
@@ -117,6 +103,10 @@
 
 ---
 
+## 💡 Unique Quote
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="60%"/>
+  <b>
+  "A student is not defined by what he knows today, but by the intelligence he builds every day."
+  </b>
 </p>
