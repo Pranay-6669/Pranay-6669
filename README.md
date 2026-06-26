@@ -1,60 +1,96 @@
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/onuohasilver/github-profile-animated-banners/main/banners/code.gif" width="85%" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Pranay</h1>
-<h3 align="center">AI/ML & Data Science Enthusiast 
+<h1 align="center">Pranay Bandanakanti</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=AI%2FML+Learner+%7C+Data+Science+Explorer;Building+Intelligent+Data-Driven+Systems;Turning+Data+into+Insights+%26+Models;Future+AI+Engineer" />
+  AI/ML Enthusiast · Data Science Learner · Full Stack Explorer · India
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pranay-bandanakanti1259/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:pranay.b0311@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/Pranay-6669">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Pranay+Bandanakanti;AI%2FML+%7C+Data+Science+Learner;Building+Intelligent+Data-Driven+Systems" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Pranay-6669&color=58a6ff&style=for-the-badge&label=Profile+Views"/>
+
+</div>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 CSE Student passionate about AI/ML & Data Science  
-- 📊 Learning Machine Learning, Deep Learning & Data Analytics  
-- 🧠 Focused on building intelligent, real-world AI solutions  
-- 💻 Interested in Full Stack Development (for product building)  
-- 🎯 Goal: Become an AI/ML Engineer solving real-world problems  
+Currently learning **AI/ML & Data Science** and building projects that combine data, logic, and real-world problem solving.
 
 ---
 
 ## 🧰 Tech Stack
 
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**AI / Data Science**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+
+**Backend Basics**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🚀 Projects
+
+### 🧠 AI / Data Science Projects
+
+**🧠 MindSync – AI Wellness Concept**
+- Emotion tracking & journaling system
+- AI-based idea for mental wellness insights
+
+---
+
+**📈 ML Practice Projects**
+- Data cleaning, EDA, visualization
+- Beginner ML models (regression, classification)
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,mysql,html,css,git,github,vscode" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pranay-6669&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay-6669&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranay-6669&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranay-6669&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay-6669&layout=compact&theme=tokyonight" height="170"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pranay-6669&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranay-6669&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranay-6669&theme=github-compact"/>
 </p>
 
 ---
@@ -67,46 +103,21 @@
 
 ---
 
-## 🚀 Featured Projects (Important Only)
-
-### 🧠 AI / Data Science Projects
-- 📊 **Trip Planner for Students**
-  - Smart planning + budgeting system
-
-- 🧠 **MindSync – AI Wellness System**
-  - Emotion tracking + journaling concept app
-
-- 📈 **ML / Data Science Practice Projects**
-  - Data analysis, visualization & ML models
-
----
-
 ## 🎯 Current Focus
 
-- 🤖 Machine Learning Fundamentals  
-- 📊 Data Science & Analytics  
-- 🧠 Deep Learning Basics  
-- 🌐 Full Stack Development fundamentals  
+| Area | Focus |
+|------|------|
+| 🤖 AI/ML | Machine Learning & Data Science |
+| 📊 Data | Pandas, NumPy, Visualization |
+| 🧠 Models | Regression, Classification |
+| 💻 Dev | Full Stack basics for projects |
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pranay-bandanakanti1259/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:pranay.b0311@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
-
----
-
-## 💡  Quote
+## 💡 Unique Quote
 
 <p align="center">
   <b>
-  "A student is not defined by what he knows today, but by the intelligence he builds every day."
+  "A student becomes powerful not by memorizing, but by learning how to think with data."
   </b>
 </p>
