@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Pranay</h1>
-<h3 align="center">AI/ML & Data Science Enthusiast | Aspiring Full Stack Developer</h3>
+<h3 align="center">AI/ML & Data Science Enthusiast 
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=900&color=36BCF7&center=true&vCenter=true&width=650&lines=AI%2FML+Learner+%7C+Data+Science+Explorer;Building+Intelligent+Data-Driven+Systems;Turning+Data+into+Insights+%26+Models;Future+AI+Engineer" />
@@ -103,7 +103,7 @@
 
 ---
 
-## 💡 Unique Quote
+## 💡  Quote
 
 <p align="center">
   <b>
