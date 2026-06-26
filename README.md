@@ -4,28 +4,28 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Pranay</h1>
-<h3 align="center">Aspiring Full Stack Developer | AI/ML & Data Science Learner | Cybersecurity Enthusiast</h3>
+<h3 align="center">AI/ML & Data Science Enthusiast | Aspiring Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=900&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps;Exploring+AI%2FML+%26+Data+Science;Backend+%7C+Security+%7C+Automation;Learning+to+Turn+Ideas+into+Products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=900&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+AI+%26+Data-Driven+Solutions;Learning+Machine+Learning+%7C+Deep+Learning;Exploring+Real-World+Data+Science+Projects;Turning+Data+into+Intelligence" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE Student | Currently learning AI/ML & Data Science at V Cube
-- 💻 Passionate about Full Stack Development & scalable backend systems
-- 🧠 Exploring Machine Learning, Data Analytics & AI-powered applications
-- 🔐 Interested in Cybersecurity, API Security & Ethical Hacking
-- ⚡ Goal: Become a strong Full Stack + AI Engineer building real-world impactful products
+- 🎓 B.Tech CSE Student
+- 📊 Currently learning **AI, Machine Learning & Data Science**
+- 🧠 Passionate about building data-driven intelligent systems
+- 💻 Interested in Full Stack Development (MERN basics)
+- 🎯 Goal: Become an AI Engineer solving real-world problems using data
 
 ---
 
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,nodejs,express,mongodb,mysql,react,html,css,git,github,linux,docker,aws,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,express,mongodb,mysql,html,css,git,github,vscode" />
 </p>
 
 ---
@@ -43,26 +43,26 @@
 
 ---
 
-## 💡 Projects
+## 📁 Projects
 
-- 🚀 **Trip Planner for Students** – Smart planning & budgeting system  
-- 🧠 **MindSync – Digital Wellness App** – AI-based emotional wellness & journaling system  
-- 🔐 **Cybersecurity Labs (Learning Phase)** – API security, scanning, and penetration testing practice  
+- 📊 **Trip Planner for Students** – Smart planning & budget optimization tool  
+- 🧠 **MindSync – AI Wellness Concept App** – Emotion tracking & journaling system  
+- 📈 **Data Science Mini Projects** – EDA, visualization & ML practice projects  
 
 ---
 
-## 🧠 Currently Learning
+## 📚 Currently Learning
 
-- 🤖 Machine Learning (Supervised & Unsupervised Learning)
-- 📊 Data Science (Pandas, NumPy, Visualization)
-- ☁️ Backend + API Architecture
-- 🔐 Secure System Design & OWASP Principles
+- 🤖 Machine Learning (Regression, Classification, Clustering)
+- 📊 Data Analysis (Pandas, NumPy, Matplotlib)
+- 🧠 Basics of Deep Learning
+- 🌐 Full Stack Web Development fundamentals
 
 ---
 
 ## 🎯 Career Goal
 
-> To become a **Full Stack + AI Engineer** who builds intelligent, secure, and scalable applications that solve real-world problems.
+> Become a **Skilled AI/ML Engineer** who builds intelligent systems using data and machine learning.
 
 ---
 
