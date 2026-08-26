@@ -1,128 +1,89 @@
-<h1 align="center">Pranay Bandanakanti</h1>
+<div align="center">
 
-<p align="center">
-  AI/ML Enthusiast · Data Science Learner · India
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:071A2B,50:0F766E,100:22D3EE&text=Pranay%20Bandanakanti&fontColor=E6FFFB&fontSize=44&fontAlignY=38&desc=AI%2FML%20%26%20Data%20Science%20%E2%80%A2%20Local%20AI%20Agents%20%E2%80%A2%20Automation&descAlignY=58&descSize=17&animation=fadeIn" alt="Pranay Bandanakanti — AI/ML, Data Science, Local AI Agents and Automation" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pranay-bandanakanti1259/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:pranay.b0311@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Pranay-6669">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-</p>
+### Building intelligent systems that run locally, solve practical problems, and improve through iteration.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Pranay--6669-071A2B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranay-6669)
+![Focus](https://img.shields.io/badge/Focus-AI%2FML%20%26%20Data%20Science-0F766E?style=for-the-badge)
+![Learning](https://img.shields.io/badge/Status-Learning%20in%20Public-0891B2?style=for-the-badge)
+
+</div>
+
+## About me
+
+I am a B.Tech Computer Science student specializing in Cyber Security, with a growing focus on **Artificial Intelligence, Machine Learning, and Data Science**. I enjoy turning ideas into working projects—from predictive ML applications to local AI agents and automated workflows.
+
+- 🤖 Exploring local AI agents with **Ollama, MCP, and n8n**
+- 📊 Building end-to-end **machine-learning and data-science projects**
+- 🔐 Interested in responsible automation, privacy, and secure credential handling
+- 🌱 Currently learning **RAG, agent evaluation, MLOps, and production AI systems**
+- 🎯 Goal: build practical AI products with measurable real-world value
+
+## Featured systems
+
+| Project | What it does | Core technologies |
+|---|---|---|
+| [AI News Agent](https://github.com/Pranay-6669/ai-news-agent) | Collects recent AI news through RSS, processes it with a local model, and returns a structured response through an n8n webhook. | n8n, Ollama, RSS, Webhooks |
+| [AI Job Hunter](https://github.com/Pranay-6669/ai-job-hunter) | Extracts a candidate profile from a resume, searches for relevant jobs, and delivers formatted job alerts. | n8n, Ollama, APIs, Gmail |
+| [Local MCP Server](https://github.com/Pranay-6669/mcp-server) | Lets a local Ollama model discover and call Python MCP tools, use their results, and produce a final response. | Python, MCP, Ollama, Pytest |
+
+## Current build: 12-day AI maintenance experiment
+
+I designed a local n8n workflow that performs one focused documentation task per day across my three repositories. It reads the existing project, uses Ollama locally, validates the generated content, creates a GitHub commit, and sends an email notification.
+
+```mermaid
+flowchart LR
+    A["Daily n8n trigger"] --> B["Read repository"]
+    B --> C["Generate with Ollama"]
+    C --> D["Validate content"]
+    D --> E["Commit and notify"]
+```
+
+> The goal is meaningful project maintenance—not empty activity. Generated documentation is constrained to existing project facts and should still be reviewed.
+
+## Technical toolkit
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Pranay+Bandanakanti;AI%2FML+%7C+Data+Science+Learner;Building+Intelligent+Data-Driven+Systems" />
+![Python](https://img.shields.io/badge/Python-071A2B?style=flat-square&logo=python&logoColor=FACC15)
+![Pandas](https://img.shields.io/badge/Pandas-071A2B?style=flat-square&logo=pandas&logoColor=38BDF8)
+![NumPy](https://img.shields.io/badge/NumPy-071A2B?style=flat-square&logo=numpy&logoColor=38BDF8)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-071A2B?style=flat-square&logo=scikitlearn&logoColor=F97316)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-071A2B?style=flat-square&logo=tensorflow&logoColor=F97316)
+![FastAPI](https://img.shields.io/badge/FastAPI-071A2B?style=flat-square&logo=fastapi&logoColor=2DD4BF)
+![Streamlit](https://img.shields.io/badge/Streamlit-071A2B?style=flat-square&logo=streamlit&logoColor=FB7185)
+![n8n](https://img.shields.io/badge/n8n-071A2B?style=flat-square&logo=n8n&logoColor=FB7185)
+![Ollama](https://img.shields.io/badge/Ollama-071A2B?style=flat-square&logo=ollama&logoColor=white)
+![Git](https://img.shields.io/badge/Git-071A2B?style=flat-square&logo=git&logoColor=F97316)
+![GitHub](https://img.shields.io/badge/GitHub-071A2B?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-071A2B?style=flat-square&logo=linux&logoColor=FACC15)
 
-<br/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=Pranay-6669&color=58a6ff&style=for-the-badge&label=Profile+Views"/>
+## Progress roadmap
+
+- [x] Machine-learning foundations and model evaluation
+- [x] End-to-end ML applications with FastAPI and Streamlit
+- [x] Workflow automation with n8n and local LLMs
+- [x] MCP server with tool discovery and tool calling
+- [ ] Retrieval-Augmented Generation with evaluation
+- [ ] Reproducible MLOps pipelines and monitored deployment
+- [ ] Production-ready multi-agent application
+
+## GitHub activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pranay-6669&show_icons=true&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=94A3B8&icon_color=2DD4BF" alt="Pranay's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay-6669&layout=compact&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=94A3B8" alt="Pranay's most used languages" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+<div align="center">
 
-Currently learning **AI/ML & Data Science** and building projects that combine data, logic, and real-world problem solving.
-- 🎓 CSE Student passionate about AI/ML & Data Science  
-- 📊 Learning Machine Learning, Deep Learning & Data Analytics  
-- 🧠 Focused on building intelligent, real-world AI solutions  
-- 💻 Interested in Full Stack Development (for product building)  
-- 🎯 Goal: Become an AI/ML Engineer solving real-world problems 
+### Learn deeply. Build honestly. Improve continuously.
 
----
-
-## 🧰 Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**AI / Data Science**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-
-**Backend Basics**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 🚀 Projects
-
-### 🧠 AI / Data Science Projects
-
-**🧠 MindSync – AI Wellness Concept**
-- Emotion tracking & journaling system
-- AI-based idea for mental wellness insights
-
----
-
-**📈 ML Practice Projects**
-- Data cleaning, EDA, visualization
-- Beginner ML models (regression, classification)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pranay-6669&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay-6669&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranay-6669&theme=github-compact"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🎯 Current Focus
-
-| Area | Focus |
-|------|------|
-| 🤖 AI/ML | Machine Learning & Data Science |
-| 📊 Data | Pandas, NumPy, Visualization |
-| 🧠 Models | Regression, Classification |
-| 💻 Dev | Full Stack basics for projects |
-
----
-
-## 💡 Unique Quote
-
-<p align="center">
-  <b>
-  "A student becomes powerful not by memorizing, but by learning how to think with data."
-  </b>
-</p>
+</div>
